@@ -1,3 +1,4 @@
+// this script is purely for debugging purposes
 package net.sevensuper.supersrecipemod;
 
 import net.minecraft.core.RegistryAccess;
