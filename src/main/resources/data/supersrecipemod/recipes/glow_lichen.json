@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "forge:dusts/glowstone_dust"
+    },
+    {
+      "tag": "forge:vines"
+    }
+  ],
+  "result": {
+    "item": "minecraft:glow_lichen",
+    "count": 1
+  }
+}

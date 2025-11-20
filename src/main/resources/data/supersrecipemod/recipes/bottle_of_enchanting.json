@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "forge:dusts/glowstone_dust"
+    },
+    {
+      "tag": "forge:glass_bottle"
+    },
+    {
+      "tag": "forge:ender_pearls"
+    }
+  ],
+  "result": {
+    "item": "minecraft:experience_bottle",
+    "count": 8
+  }
+}

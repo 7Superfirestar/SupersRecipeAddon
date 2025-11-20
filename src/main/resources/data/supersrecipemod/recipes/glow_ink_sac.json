@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "forge:dusts/glowstone_dust"
+    },
+    {
+      "tag": "forge:ink_sacs"
+    }
+  ],
+  "result": {
+    "item": "minecraft:glow_ink_sac",
+    "count": 1
+  }
+}
