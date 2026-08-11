@@ -13,3 +13,6 @@ Current recipes:
 
 
 Tags are defined in resources/data/forge/tags/items if you want to make your mod compatible with this one (synthetic leather/wool, etc.)
+-----
+
+Please note that i am no longer working on minecraft mods, therefore this repository is no longer maintained. Feel free to fork whatever, the mod is kinda ass so i doubt anyone would do that
